@@ -1,16 +1,35 @@
-### Hi there 👋
+---
+### Greetings
 
-<!--
-**albe2669/albe2669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Albert Rise Nielsen, and this is my personal profile. For projects devised while attending ITU see this [organization](https://github.com/albn-itu).
 
-Here are some ideas to get you started:
+#### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :book: My highest, finished, education is a **"gymnasial" (Upper seconday education) in mathemathics and programming**.
+- :telescope: I'm studying **Software Development at the [IT University of Copenhagen](https://itu.dk)**
+- :hourglass: I'm currently on my **5th semester of the bachelor**
+- :space_invader: My current interests are **Security, DevOps, database design and distributed systems**
+- :seedling: I work in the food industry, redesigning the food system. See more at the awesome [Dagens](https://dagens.farm)
+- :bicyclist: Outside of work and the university i love bicycles, electric cars and gaming
+- :email: Reach me at [albn@itu.dk](albn@itu.dk), always open to a discussion.
+- :paintbrush: Currently obsessing over [**Everforest**](https://github.com/sainnhe/everforest)
+- :zap: Currently working on [my dotfiles](https://github.com/albe2669/dotfiles), converting and uniting all my projects in Kubernetes and a personal website.
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=albe2669&show_icons=true&locale=en&theme=transparent" alt="albe2669" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albe2669&show_icons=true&locale=en&layout=compact&theme=transparent" alt="albe2669" /></p>
+
+
+I like data, so here are some metrics.
+
+---
+
+#### Links
+
+<p align="center">
+  
+  <a href="mailto:albert+gh@risenielsen.dk"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/albert-rise-nielsen-13a4921b5/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://hub.docker.com/u/maliciousgoose"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+</p>
