@@ -16,9 +16,10 @@ My name is Albert Rise Nielsen, and this is my personal profile. For projects de
 - :zap: Currently working on [my dotfiles](https://github.com/albe2669/dotfiles), converting and uniting all my projects in Kubernetes and a personal website.
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=albe2669&show_icons=true&locale=en&theme=transparent" alt="albe2669" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albe2669&show_icons=true&locale=en&layout=compact&theme=transparent" alt="albe2669" /></p>
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albe2669&show_icons=true&locale=en&theme=transparent" alt="albe2669" width="40%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albe2669&show_icons=true&locale=en&layout=compact&theme=transparent" alt="albe2669" width="33%" height="150"/>
+</p>
 
 
 I like data, so here are some metrics.
@@ -28,7 +29,6 @@ I like data, so here are some metrics.
 #### Links
 
 <p align="center">
-  
   <a href="mailto:albert+gh@risenielsen.dk"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/albert-rise-nielsen-13a4921b5/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://hub.docker.com/u/maliciousgoose"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
