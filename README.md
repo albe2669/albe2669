@@ -5,9 +5,9 @@ My name is Albert Rise Nielsen, and this is my personal profile. For projects de
 
 #### BIO
 
-- :book: My highest, finished, education is a **"gymnasial" (Upper seconday education) in mathemathics and programming**.
-- :telescope: I'm studying **Software Development at the [IT University of Copenhagen](https://itu.dk)**
-- :hourglass: I'm currently on my **5th semester of the bachelor**
+- :book: My highest, finished, education is a **Bachelor of Science in Software Development**.
+- :telescope: I'm studying **Computer Science at the [IT University of Copenhagen](https://itu.dk)**
+- :hourglass: I'm currently on my **1st semester of the master**
 - :space_invader: My current interests are **Security, DevOps, database design and distributed systems**
 - :seedling: I work in the food industry, redesigning the food system. See more at the awesome [Dagens](https://dagens.farm)
 - :bicyclist: Outside of work and the university i love bicycles, electric cars and gaming
