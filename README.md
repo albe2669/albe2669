@@ -1,19 +1,39 @@
 ---
-### Greetings
 
-My name is Albert Rise Nielsen, and this is my personal profile. For projects devised while attending ITU see this [organization](https://github.com/albn-itu).
+### :wave: Greetings
 
-#### BIO
+I'm **Albert Rise Nielsen** – a System Architect & Algorithm Specialist experienced in full-stack development with a strong focus on building scalable web applications and architecting robust backend systems. I love solving problems, learning new technologies, and working with event-driven architectures.
 
-- :book: My highest, finished, education is a **Bachelor of Science in Software Development**.
-- :telescope: I'm studying **Computer Science at the [IT University of Copenhagen](https://itu.dk)**
-- :hourglass: I'm currently on my **1st semester of the master**
-- :space_invader: My current interests are **Security, DevOps, database design and distributed systems**
-- :seedling: I work in the food industry, redesigning the food system. See more at the awesome [Dagens](https://dagens.farm)
-- :bicyclist: Outside of work and the university i love bicycles, electric cars and gaming
-- :email: Reach me at [albn@itu.dk](albn@itu.dk), always open to a discussion.
-- :paintbrush: Currently obsessing over [**Everforest**](https://github.com/sainnhe/everforest)
-- :zap: Currently working on [my dotfiles](https://github.com/albe2669/dotfiles), converting and uniting all my projects in Kubernetes and a personal website.
+For projects from my studies at ITU, check out [this organization](https://github.com/albn-itu).
+
+#### Bio
+
+- :dart: **Current Role**: Systems Architect at [IAM Group](https://iamgroup.dk), ensuring privacy and security for enterprises
+- :books: **Education**: Completing MSc in Computer Science at [IT University of Copenhagen](https://itu.dk) (graduating January 2026)
+- :microscope: **Master's Thesis**: Implementing Maximum Flow by Augmenting Paths in n²⁺ᵒ⁽¹⁾ Time
+- :microscope: **Bachelor's Thesis**: Design, Implementation and Evaluation of the FlexNVMe Transport in ADIOS2
+- :bulb: **Expertise**: System Architecture | Algorithm Design | Security | DevOps | Distributed Systems
+- :wrench: **Tech Stack**: Rust, Python, TypeScript, Go | PostgreSQL, MySQL | AWS, GCP, Azure | Docker, Kubernetes, Terraform, Dagger, Github Actions
+- :bike: **Beyond Code**: Cycling enthusiast, music lover, gamer, and automater
+- :paintbrush: **Favourite colorscheme**: [Everforest](https://github.com/sainnhe/everforest)
+
+---
+
+#### My favourite projects
+
+- :penguin: [**Arch Goose**](https://github.com/albe2669/dotfiles) - Custom NixOS-based Linux distribution optimized for developer productivity with Hyprland desktop environment
+- :musical_note: [**Spotify Viewer**](https://github.com/rustic-beans/spotify-viewer) - Real-time music tracking system with live updates and listening history
+- :book: [**Recipe Book**](https://github.com/albe2669/recipes) - Cooklang-based recipe system with custom LaTeX transpiler and automated CI/CD
+
+---
+
+### Currently working on
+
+- :hammer: Converting all personal projects to unified Kubernetes infrastructure
+- :paintbrush: Obsessing over [**Everforest**](https://github.com/sainnhe/everforest)
+- :keyboard: Fine-tuning my split keyboard with QMK/ZMK across multiple layouts
+- :globe_with_meridians: Building a personal website
+
 ---
 
 <p float="left" align="center">
@@ -26,10 +46,11 @@ I like data, so here are some metrics.
 
 ---
 
-#### Links
-
 <p align="center">
   <a href="mailto:albert+gh@risenielsen.dk"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/albert-rise-nielsen-13a4921b5/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/albert-rise-nielsen/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://hub.docker.com/u/maliciousgoose"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+  <a href="https://github.com/albe2669/cv"><img src="https://img.icons8.com/fluency/32/parse-from-clipboard.png" alt="docker"/></a>
 </p>
+
+---
