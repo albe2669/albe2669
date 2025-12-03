@@ -1,5 +1,3 @@
----
-
 ### :wave: Greetings
 
 I'm **Albert Rise Nielsen** – a System Architect & Algorithm Specialist experienced in full-stack development with a strong focus on building scalable web applications and architecting robust backend systems. I love solving problems, learning new technologies, and working with event-driven architectures.
@@ -53,4 +51,3 @@ I like data, so here are some metrics.
   <a href="https://github.com/albe2669/cv"><img src="https://img.icons8.com/fluency/32/parse-from-clipboard.png" alt="docker"/></a>
 </p>
 
----
