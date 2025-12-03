@@ -48,6 +48,6 @@ I like data, so here are some metrics.
   <a href="mailto:albert+gh@risenielsen.dk"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/albert-rise-nielsen/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://hub.docker.com/u/maliciousgoose"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  <a href="https://github.com/albe2669/cv"><img src="https://img.icons8.com/fluency/32/parse-from-clipboard.png" alt="docker"/></a>
+  <a href="https://github.com/albe2669/albe2669/blob/main/cv.pdf"><img src="https://img.icons8.com/fluency/32/parse-from-clipboard.png" alt="docker"/></a>
 </p>
 
