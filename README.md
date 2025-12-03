@@ -1,12 +1,12 @@
 ### :wave: Greetings
 
-I'm **Albert Rise Nielsen** – a Software Architect/Engineer & Algorithm Specialist experienced in full-stack development with a strong focus on building scalable web applications and architecting robust backend systems. I love solving problems, learning new technologies, and working with event-driven architectures.
+I'm **Albert Rise Nielsen** – a System Architect/Engineer & Algorithm Specialist experienced in full-stack development with a strong focus on building scalable web applications and architecting robust backend systems. I love solving problems, learning new technologies, and working with event-driven architectures.
 
 For projects from my studies at ITU, check out [this organization](https://github.com/albn-itu).
 
 #### Bio
 
-- :dart: **Current Role**: Software Architect/Engineer at [IAM Group](https://iamgroup.dk), ensuring privacy and security for enterprises
+- :dart: **Current Role**: System Architect at [IAM Group](https://iamgroup.dk), ensuring privacy and security for enterprises
 - :books: **Education**: Completing MSc in Computer Science at [IT University of Copenhagen](https://itu.dk) (graduating January 2026)
 - :microscope: **Master's Thesis**: Implementing Maximum Flow by Augmenting Paths in n²⁺ᵒ⁽¹⁾ Time
 - :microscope: **Bachelor's Thesis**: Design, Implementation and Evaluation of the FlexNVMe Transport in ADIOS2
