@@ -27,7 +27,7 @@ For projects from my studies at ITU, check out [this organization](https://githu
 
 ---
 
-### Currently working on
+#### Currently working on
 
 - :hammer: Converting all personal projects to unified Kubernetes infrastructure
 - :paintbrush: Obsessing over [**Everforest**](https://github.com/sainnhe/everforest)
